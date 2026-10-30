@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-30",
+  "profiles": 6033,
+  "detectedWithBrand": 0.9968506547323056,
+  "detectedWithoutBrand": 0.7700977954583126,
+  "wrongProfile": 0.0021548151831592907,
+  "sample": 80,
+  "medianError": 1.9246755926414323,
+  "medianUncorrected": 6.314720512491951,
+  "medianQuieter": 0,
+  "languages": 74,
+  "texts": 105
+}

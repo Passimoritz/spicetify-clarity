@@ -1,0 +1,9 @@
+{
+  "name": "Clarity",
+  "description": "Best Spotify sound in one click: Lossless, headphone correction from 6,000+ AutoEq measurements on Spotify's equalizer, no silent downgrades. Leaves Normalize volume as you set it. 74 languages.",
+  "preview": "docs/panel-after-en.png",
+  "main": "dist/clarity.js",
+  "readme": "README.md",
+  "authors": [{ "name": "Passimoritz", "url": "https://github.com/Passimoritz" }],
+  "tags": ["audio", "sound", "equalizer", "lossless", "headphones"]
+}
